@@ -12,10 +12,9 @@ import Modelo.Canton;
 import Servicio.CantonServiceImpl;
 import Servicio.ProvinciaServiceImpl;
 
-/**
- *
- * @author amawt
- */
+
+
+
 public class CantonControl {
     
     private ProvinciaServiceImpl provinciaServiceImpl = new ProvinciaServiceImpl();

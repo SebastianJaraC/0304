@@ -7,10 +7,7 @@ package Servicio;
 import java.util.List;
 import Modelo.Canton;
 
-/**
- *
- * @author amawt
- */
+
 public interface CantonService {
     
     public void crear(Canton canton);

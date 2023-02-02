@@ -16,10 +16,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import Modelo.Pais;
 
-/**
- *
- * @author amawt
- */
+
+
 public class PaisServiceImpl implements PaisService {
     
     private static List<Pais> paisList = new ArrayList<>();

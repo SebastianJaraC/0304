@@ -7,10 +7,8 @@ package Servicio;
 import java.util.List;
 import Modelo.Provincia;
 
-/**
- *
- * @author amawt
- */
+
+
 public interface ProvinciaService {
     
     public void crear(Provincia provincia);

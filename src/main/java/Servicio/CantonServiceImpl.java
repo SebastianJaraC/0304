@@ -15,10 +15,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import Modelo.Canton;
 
-/**
- *
- * @author amawt
- */
+
+
 public class CantonServiceImpl implements CantonService{
     
     private static List <Canton> cantonList = new ArrayList<>();

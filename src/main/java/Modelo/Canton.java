@@ -7,10 +7,7 @@ package Modelo;
 import java.io.Serializable;
 import java.time.LocalDate;
 
-/**
- *
- * @author amawt
- */
+
 public class Canton implements Serializable{
 
     private int codigoCanton;

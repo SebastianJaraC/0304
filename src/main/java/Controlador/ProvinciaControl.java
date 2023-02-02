@@ -10,10 +10,7 @@ import Modelo.Provincia;
 import Servicio.PaisServiceImpl;
 import Servicio.ProvinciaServiceImpl;
 
-/**
- *
- * @author amawt
- */
+
 public class ProvinciaControl {
     
      private PaisServiceImpl paisServiceImpl = new PaisServiceImpl();

@@ -17,10 +17,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import Modelo.Provincia;
 
-/**
- *
- * @author amawt
- */
+
+
 public class ProvinciaServiceImpl implements ProvinciaService{
     
     private static List<Provincia> provinciaList = new ArrayList<>();

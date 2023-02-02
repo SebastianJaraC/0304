@@ -7,10 +7,7 @@ package Servicio;
 import java.util.List;
 import Modelo.Pais;
 
-/**
- *
- * @author amawt
- */
+
 public interface PaisService {
     
     public void crear(Pais pais);

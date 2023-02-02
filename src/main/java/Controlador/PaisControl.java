@@ -8,10 +8,7 @@ import java.util.List;
 import Modelo.Pais;
 import Servicio.PaisServiceImpl;
 
-/**
- *
- * @author amawt
- */
+
 public class PaisControl {
     
     private PaisServiceImpl paisServiceImpl = new PaisServiceImpl();

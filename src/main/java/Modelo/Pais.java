@@ -6,10 +6,6 @@ package Modelo;
 
 import java.io.Serializable;
 
-/**
- *
- * @author amawt
- */
 public class Pais implements Serializable {
 
     private int codigoPais;

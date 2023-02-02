@@ -7,10 +7,6 @@ package Modelo;
 import java.io.Serializable;
 import java.time.LocalDate;
 
-/**
- *
- * @author amawt
- */
 public class Provincia implements Serializable{
 
     private int codigoProvincia;
